@@ -1,2 +1,1 @@
-# First_Assessment
-# First_Assessment
+This Assessment is solved using C++ programming language.
